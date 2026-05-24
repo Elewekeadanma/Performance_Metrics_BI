@@ -56,3 +56,6 @@ Processes
 
 
 👉 These likely provide detailed drill-downs for each metric category.
+
+![alt text](image-1.png)
+
