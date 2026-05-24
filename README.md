@@ -101,3 +101,10 @@ June: ~70 pages
 June has the highest output
 May shows a drop in productivity
 Overall trend: dip in May → strong rebound in June
+
+Key Takeaways
+
+Slight decline in overall Confluence score
+Content creation peaked in June
+Editing activity is dominated by one user, but otherwise evenly distributed
+Dashboard is interactive, allowing filtering by user and time period
