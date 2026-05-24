@@ -59,3 +59,45 @@ Processes
 
 ![alt text](image-1.png)
 
+The dashboard tracks Confluence activity performance across users, focusing on:
+
+Individual performance scores
+Content creation (pages)
+Editing contributions
+Time-based filtering
+
+Confluence Score Trend
+
+Current Score (another KPI): 3.06
+Last Quarter Score: 3.08
+
+👉 Insight:
+
+Slight decline in score compared to the previous quarter.
+
+Time Filter
+
+Quarter selection panel is available:
+
+Qtr 1, Qtr 2, Qtr 3, Qtr 4
+
+
+Qtr 4 is selected
+
+👉 This means all displayed metrics are currently filtered for Quarter 4.
+
+Pages Created (Bar Chart)
+
+Shows monthly breakdown:
+
+April: ~65 pages
+May: ~36 pages
+June: ~70 pages
+
+
+
+👉 Insights:
+
+June has the highest output
+May shows a drop in productivity
+Overall trend: dip in May → strong rebound in June
